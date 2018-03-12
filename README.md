@@ -1,1 +1,1 @@
-# Filterin Products - React Example
+# Filtering Products - React Example
